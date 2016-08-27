@@ -1,6 +1,8 @@
 # SLStatusBarHUD
 状态栏指示器小框架
 
+![image](https://github.com/lianshumin/SLStatusBarHUD/blob/master/SLStatusBarHUD.gif)
+
 ## 显示成功信息
 ```objc
 [SLStatusBarHUD showSuccess:@"加载成功"];
